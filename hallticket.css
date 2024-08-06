@@ -1,0 +1,211 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+
+.sectionone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.imgg img {
+    height: 100px;
+    width: 100px;
+    margin-right: 250px;
+
+    margin-top: 5px;
+}
+
+.gov h3 {
+    text-align: center;
+    margin-right: 250px;
+
+}
+
+.gov h2 {
+    text-align: center;
+    text-align: center;
+    margin-right: 200px;
+
+}
+
+.im img {
+    height: 100px;
+    width: 100px;
+    margin-right: 50px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.hm {
+    background-color: rgb(12, 42, 97);
+    color: white;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.hm a {
+    border-right: 2px solid white;
+    padding: 0px 10px;
+    color: aliceblue;
+}
+.m{
+    margin-top: 10px;
+}
+.sms {
+    height: 480px;
+    width: 1200px;
+    border-radius: 25px;
+    background-color: rgb(26, 26, 214);
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.meu {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-top: -450px;
+    font-size: 15px;
+}
+
+.evulu {
+    height: 140px;
+    width: 390px;
+    /* border: 2px solid;  */
+    border-radius: 5px;
+    background-color: whitesmoke;
+    margin-left: 160px;
+    margin-top: 90px;
+}
+
+.ten {
+    color: rgb(37, 37, 156);
+    margin-left: 200px;
+    margin-top: -120px;
+}
+
+.bo {
+    border: 2px solid;
+    border-radius: 30px;
+    height: 30px;
+    width: 340px;
+    margin-top: 10px;
+    margin-left: 180px;
+    border-color: rgba(0, 0, 0, 0.267);
+}
+
+.year {
+    margin-left: 650px;
+    margin-top: -120px;
+    color: rgb(226, 226, 233);
+}
+
+.tote {
+    border: 2px solid;
+    border-radius: 30px;
+    height: 30px;
+    width: 340px;
+    margin-top: 10px;
+    margin-left: 650px;
+    border-color: rgba(0, 0, 0, 0.267);
+    background-color: white;
+}
+
+.coc {
+    margin-left: 650px;
+    margin-top: 30px;
+    color: white;
+}
+
+.ror {
+    border: 2px solid;
+    border-radius: 30px;
+    height: 30px;
+    width: 340px;
+    margin-top: 10px;
+    margin-left: 650px;
+    border-color: rgba(0, 0, 0, 0.267);
+    background-color: white;
+}
+
+.cap {
+    margin-left: 650px;
+    margin-top: 30px;
+    color: white;
+}
+
+.coo {
+    border: 2px solid;
+    border-radius: 30px;
+    height: 30px;
+    width: 340px;
+    margin-top: 10px;
+    margin-left: 650px;
+    border-color: rgba(0, 0, 0, 0.267);
+    background-color: white;
+}
+
+.green {
+    /* border: 2px solid;   */
+    border-radius: 30px;
+    height: 30px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 680px;
+    border-color: rgba(0, 0, 0, 0.267);
+    background-color: rgb(11, 68, 11);
+}
+
+.cut {
+    margin-left: 710px;
+    margin-top: -20px;
+    color: white;
+}
+
+.dum{
+    height: 80px;
+    width: 1320px;
+    background: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 10px;
+    }
+    .mum {
+        margin-left: -140px;
+        margin-top: -70px;
+        color: white;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .mum{
+        margin-left: 50px;
+    }
+    .des p {
+        margin-left: 570px;
+        margin-top: -40px;
+        color: white;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    .nic img {
+        margin-top: -60px;
+        height: 60px;
+    margin-left: 1100px;
+    }
+    

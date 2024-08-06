@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+
+.sectionone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.imgg img {
+    height: 100px;
+    width: 100px;
+    margin-right: 250px;
+    margin-top: 5px;
+}
+
+.gov h3 {
+    text-align: center;
+    margin-right: 250px;
+
+}
+
+.gov h2 {
+    text-align: center;
+    text-align: center;
+    margin-right: 200px;
+
+}
+
+.im img {
+    height: 100px;
+    width: 100px;
+    margin-right: 50px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.hm {
+    background-color: rgb(37, 82, 165);
+    color: white;
+    height: 40px;
+    width: 100%;
+    align-items: center;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.hm a {
+    border-right: 2px solid white;
+    padding: 0px 10px;
+    color: aliceblue;
+}
+
+.for {
+    color: rgb(37, 82, 165);
+    display: flex;
+    margin-left: 800px;
+    margin-top: 100px;
+}
+
+.m {
+    margin-top: 15px;
+}
+
+.beed {
+    background-color: rgb(201, 219, 219);
+    height: 460px;
+    width: 1190px;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.rum {
+    margin-left: 550px;
+    margin-top: -400px;
+}
+
+.cot {
+    color: rgb(31, 31, 170);
+    margin-left: 480px;
+    margin-top: 20px;
+}
+
+.duk {
+    height: 30px;
+    width: 270px;
+    background-color: white;
+    border-radius: 25px;
+    margin-left: 490px;
+    border: 3px solid rgb(57, 57, 190);
+    margin-top: 30px;
+}
+
+.duk p {
+    margin-top: -1px;
+    font-size: 20px;
+}
+
+.mut {
+    height: 28px;
+    width: 190px;
+    background: rgb(20, 119, 20);
+    border-radius: 25px;
+    margin-left: 530px;
+    margin-top: 25px;
+}
+
+.coti {
+    color: white;
+    margin-left: 550px;
+    margin-top: -23px;
+}
+
+.dum {
+    height: 80px;
+    width: 1340px;
+    background: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 250px;
+}
+
+.mum {
+    margin-left: -500px;
+    margin-top: -70px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mum {
+    margin-left: 25px;
+}
+
+.des p {
+    margin-left: 540px;
+    margin-top: -40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nic img {
+    margin-top: -60px;
+    height: 60px;
+    margin-left: 1100px;
+}
